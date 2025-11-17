@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/lamere-carter/">Lamere Carter</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and IT — combining hands on troubleshooting experience with a growing focus on threat detection, SOC analysis and system security. From configuring networks and supporting end users to analyzing vulnerabilities and running incident response labs, I love exploring the real world side of technology and defense.
+
+🔐 Please check out my projects to see how I apply practical IT knowledge and cybersecurity principles to strengthen systems and enhance operational security.
 
 
 ## ⚠️ Vulnerability Management Projects
