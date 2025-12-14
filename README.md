@@ -16,6 +16,13 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 
 <hr/>
 
+## 🔍 Incident Response Report: Cargo Hold
+
+- **[Jade Spider Incident Report
+](https://github.com/lamerecarter/jade-spider-incident-report)**
+
+<hr/>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
