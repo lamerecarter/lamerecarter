@@ -20,7 +20,8 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 
 - **[Jade Spider Incident Report
 ](https://github.com/lamerecarter/jade-spider-incident-report)**
-
+- **[Dead In The Water Incident Report
+](https://github.com/lamerecarter/dead-in-the-water-incident-report/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
