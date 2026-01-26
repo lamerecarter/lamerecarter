@@ -4,6 +4,8 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 
 🔐 Please check out my projects to see how I apply practical IT knowledge and cybersecurity principles to strengthen systems and enhance operational security.
 
+## 👥🏢🔑 Active Directory Home Lab
+- **[Enterprise-Active-Directory-Lab](https://github.com/lamerecarter/Active-Directory-Home-Lab/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
