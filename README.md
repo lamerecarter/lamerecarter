@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 
 ## 🛠 Zendesk Administration & Service Desk Lab
 
-- [Zendesk Admin Lab](https://github.com/lamerecarter/zendesk-admin-lab)
+- [Zendesk Admin Lab](https://github.com/lamerecarter/zendesk-admin-practice)
 
 
 ## ⚠️ Vulnerability Management Projects
