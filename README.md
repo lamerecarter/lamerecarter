@@ -7,6 +7,11 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 ## 👥🔑 Active Directory Home Lab
 - **[Enterprise-Active-Directory-Lab](https://github.com/lamerecarter/Active-Directory-Home-Lab/blob/main/README.md)**
 
+## 🛠 Zendesk Administration & Service Desk Lab
+
+- [Zendesk Admin Lab](https://github.com/lamerecarter/zendesk-admin-lab)
+
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/lamerecarter/Vulnerability-Management-Program/tree/main)**
