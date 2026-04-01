@@ -17,6 +17,10 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 - **[Vulnerability Management Program Implementation](https://github.com/lamerecarter/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/lamerecarter/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH/blob/main/README.md)**
 
+## 🤖 AI Security Projects
+
+- **[AI Phishing Detection Agent (Next Village)](https://github.com/lamerecarter/next-village-email-safety-check-ai/blob/main/README.md)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
