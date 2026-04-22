@@ -16,6 +16,7 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 
 - **[Vulnerability Management Program Implementation](https://github.com/lamerecarter/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/lamerecarter/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH/blob/main/README.md)**
+- **[DISA-STIG-Remediation-Lab](https://github.com/lamerecarter/DISA-STIG-Remediation-Lab/blob/main/README.md)**
 
 ## 🤖 AI Security Projects
 
