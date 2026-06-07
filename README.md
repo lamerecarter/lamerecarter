@@ -34,7 +34,7 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 ](https://github.com/lamerecarter/jade-spider-incident-report)**
 - **[Dead In The Water Incident Report
 ](https://github.com/lamerecarter/dead-in-the-water-incident-report/blob/main/README.md)**
-- **[Scatter Invoice
+- **[Scatter Invoice Incident Report
 ](https://github.com/lamerecarter/scattered-invoice-threat-hunt/blob/main/README.md)**
 <hr/>
 
