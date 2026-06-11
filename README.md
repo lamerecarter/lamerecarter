@@ -50,3 +50,23 @@ I'm passionate about cybersecurity and IT — combining hands on troubleshooting
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+<hr/>
+
+## 🏢 Carter Systems IT
+
+Founder of Carter Systems IT, providing managed IT services and security foundations for startups and small businesses in the San Francisco Bay Area.
+
+Services include:
+
+- Google Workspace Administration
+- Microsoft 365 Administration
+- Identity & Access Management
+- Employee Onboarding & Offboarding
+- Endpoint Management
+- Security Best Practices
+
+🌐 https://cartersystemsit.com
+
+<hr/>
+
+## 👌 Connect With Me
