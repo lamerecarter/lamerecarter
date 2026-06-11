@@ -66,7 +66,3 @@ Services include:
 - Security Best Practices
 
 🌐 https://cartersystemsit.com
-
-<hr/>
-
-## 👌 Connect With Me
